@@ -1,4 +1,8 @@
 # Salud Mental Canciones
+ > Alumno: David Montaño Castro. 
+ > Universidad Nacional Autónoma de México. 
+ > Recuperación y Búsqueda de Información en Textos
+
  Análisis de textos sobre tus canciones más escuchadas en las últimas semanas para identificar depresión/tristeza en el último mes. 
 
 # Introducción
